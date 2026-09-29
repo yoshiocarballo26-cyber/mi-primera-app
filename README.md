@@ -7,7 +7,7 @@ La app es un contenedor Android ligero que abre la versión web de YC Editor 3D 
 ## Estado
 - Version: 0.1.0
 - Application ID: com.yc.editor3d.android
-- Web app: https://yoshiocarballo26-cyber.github.io/Scaner3D/
+- Web app: https://yc-suite.web.app/
 - Build: GitHub Actions
 - APK de prueba: artifact de cada ejecución del workflow
 
