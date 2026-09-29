@@ -57,7 +57,7 @@ class MainActivity : Activity() {
         setContentView(web)
 
         if (savedInstanceState == null) {
-            web.loadUrl("https://yoshiocarballo26-cyber.github.io/Scaner3D/")
+            web.loadUrl("https://yc-suite.web.app/")
         } else {
             web.restoreState(savedInstanceState)
         }
